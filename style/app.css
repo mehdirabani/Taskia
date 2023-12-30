@@ -3,9 +3,21 @@
 @import "./grid-system.css";
 @import "./component.css";
 @import "./helperclass.css";
+@import "./fonts.css";
 /* ============ Create Root Style Setting ============  */
 :root {
   --primary-color: #525ffb;
   --headding-color: #1e1c24;
   --text-color: #b1aaaa;
+}
+.heder {
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+}
+.logo-type {
 }
