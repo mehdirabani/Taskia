@@ -5,4 +5,16 @@
   padding: 1rem 3rem;
   background: var(--primary-color);
   border-radius: 3.9rem;
+  color: #fff;
+}
+.btn--outline {
+  background: transparent;
+  color: var(--primary-color);
+  border: 0.2rem solid var(--primary-color);
+  transition: all ease-in 0.3s;
+  cursor: pointer;
+}
+.btn--outline:hover {
+  background: var(--primary-color);
+  color: #fff;
 }
