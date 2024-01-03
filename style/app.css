@@ -10,14 +10,14 @@
   --headding-color: #1e1c24;
   --text-color: #b1aaaa;
 }
-.heder {
-}
 .nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-.logo {
-}
 .logo-type {
+  color: var(--primary-color);
+  font-size: 4.7rem;
+  font-weight: 800;
 }
+/* Create Style For Home Section || Css  */

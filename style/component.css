@@ -6,6 +6,7 @@
   background: var(--primary-color);
   border-radius: 3.9rem;
   color: #fff;
+  font-size: 2.3rem;
 }
 .btn--outline {
   background: transparent;
@@ -17,4 +18,11 @@
 .btn--outline:hover {
   background: var(--primary-color);
   color: #fff;
+}
+.btn--secondary {
+  background: transparent;
+  border: 0.2rem solid #ebebeb;
+  color: #ebebeb;
+  font-size: 2rem;
+  font-weight: 300;
 }
